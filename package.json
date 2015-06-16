@@ -1,0 +1,16 @@
+{
+  "name": "dead-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^3.9.3",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.11"
+  }
+}
